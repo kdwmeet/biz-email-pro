@@ -83,3 +83,8 @@ streamlit run main.py
 * **설정**: 톤(Friendly/친근함), 언어(Japanese)
 
 * **결과**: "平素より大変お世話になっております。ご無沙汰しておりますが、いかがお過ごしでしょうか... つきましては、ぜひ貴社にてご検討いただけますと幸いです。"
+
+## 실행화면
+<img width="722" height="634" alt="스크린샷 2026-02-02 145859" src="https://github.com/user-attachments/assets/fc6c74f7-87bc-40d7-8104-a340a03be7d7" />
+
+<img width="706" height="764" alt="스크린샷 2026-02-02 145905" src="https://github.com/user-attachments/assets/8a7d681f-4bb8-4985-bd76-a6a98f37d7b8" />
